@@ -1,0 +1,3 @@
+flet>=0.28,<0.29
+flet-charts>=0.28,<0.29
+pyinstaller>=6.0,<7.0
